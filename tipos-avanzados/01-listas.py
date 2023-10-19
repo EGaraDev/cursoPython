@@ -1,0 +1,9 @@
+numeros = [1, 2, 3]
+letras = ["a", "b", "c"]
+palabras = ["chanchito", "feliz","Felipe"]
+booleans = [True, False, False, True]
+matriz = [[0, 1], [1, 0]]
+ceros = [0] * 10  # crea una lizta con 10 elementos 0
+alfanumerico = numeros + letras  # une las listas numeros y letras
+rango = list(range(1,11))  # crea una lista con numeros del 1 a 10
+chars = list("hola mundo")  # crea un listados con los elementos de la cadena usada como argumento
